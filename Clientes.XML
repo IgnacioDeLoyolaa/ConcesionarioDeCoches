@@ -1,0 +1,8 @@
+<ListaClientes>
+  <Cliente>
+    <id>1234</id>
+    <nombre>Pepe</nombre>
+    <apellidos>Perez</apellidos>
+    <importe>10000.0</importe>
+  </Cliente>
+</ListaClientes>

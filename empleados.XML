@@ -1,0 +1,14 @@
+<ListaEmpleados>
+  <Empleado>
+    <dni>123</dni>
+    <nombre>Ignacio</nombre>
+    <apellidos>Romero</apellidos>
+    <salario>1000000.0</salario>
+  </Empleado>
+  <Empleado>
+    <dni>45557148J</dni>
+    <nombre>Ignacio</nombre>
+    <apellidos>Romero</apellidos>
+    <salario>200000.0</salario>
+  </Empleado>
+</ListaEmpleados>

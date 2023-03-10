@@ -1,0 +1,9 @@
+<ListaCochesVendido>
+  <CocheVendido>
+    <matricula>RGB 3459</matricula>
+    <marca>Renault</marca>
+    <modelo>Zoe</modelo>
+    <precio>10000.0</precio>
+    <vendido>true</vendido>
+  </CocheVendido>
+</ListaCochesVendido>

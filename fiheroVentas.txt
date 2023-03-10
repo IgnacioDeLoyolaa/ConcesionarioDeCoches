@@ -1,0 +1,5 @@
+Ventas{dni=1234, id=1234, matricula=1234, fecha=2021-12-16}
+Ventas{dni=1234, id=1234, matricula=0000AAA, fecha=2021-12-16}
+Ventas{dni=1234, id=1234, matricula=PPPP456, fecha=2021-12-16}
+El total recaudado es: 51243.0
+El total de ventas es: 3
